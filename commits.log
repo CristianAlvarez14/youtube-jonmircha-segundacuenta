@@ -1,0 +1,112 @@
+commit 7c0165a3107a9946e8cf12279c73d4a3e6469ff4
+Merge: 9642d92 d05d67a
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:44:12 2022 -0500
+
+    Merge branch 'main' of https://github.com/cristianalvarez1404/youtube-jonmircha
+
+commit 9642d9252351693ceb5a5704984afecde853d05d
+Merge: edfdbc1 c2f209b
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:43:11 2022 -0500
+
+    Resolviendo conflicto entre párrafos
+
+commit d05d67aa9026e54037405fc21b3e2afd882b7ce9
+Merge: edfdbc1 c2f209b
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:43:11 2022 -0500
+
+    Resolviendo conflicto en en párrafos
+
+commit edfdbc1d4a8b88efe3660f8a7de552c8e56187c3
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:37:24 2022 -0500
+
+    Agregando 2 párrafos
+
+commit 342ef0996942eba284b10f315cb8c62d5c7d4f2d
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:23:15 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c2f209bff2fee109053345498b203d68a5b1fd6f
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:23:15 2022 -0500
+
+    Agregando estaciones del año
+
+commit ef789184678850de61fad2790acd10a27bc089e2
+Merge: a297100 0b1d75c
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:19:01 2022 -0500
+
+    resolviendo conflicto merge html en el documento index.html
+
+commit 0b1d75c0c0ff3c5212f20336ca90a4267dd85582
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:14:49 2022 -0500
+
+    Agregando index.js al index.html
+
+commit a29710096e25c0056c66e57a4e54145d9a976e3f
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:13:13 2022 -0500
+
+    Agregando style.css al index.html
+
+commit e54484f9a7f33067ea78ff7a7f28fe1140cb7eac
+Merge: f8829a2 e91fac1
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 17:06:12 2022 -0500
+
+    Merge branch 'js'
+
+commit e91fac1ef9a5f7b238c93f6873c79601a2875836
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 16:51:58 2022 -0500
+
+    creando index.js
+
+commit f8829a204fcba7a7f87cab0b35447a4d67b275eb
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 16:43:32 2022 -0500
+
+    creando Style.css
+
+commit f828daf31a7e5cf32c33169c3da0d6d36d592fc2
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 16:38:45 2022 -0500
+
+    creando index.html
+
+commit 1801504cb21e91ad5c6f049655c617feb3b09d54
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 16:27:00 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 3dff1407c0c34cf5cc9fc3cc9983352413664438
+Author: Cristian Alvarez <115294338+cristianalvarez1404@users.noreply.github.com>
+Date:   Sat Oct 29 16:03:04 2022 -0500
+
+    Creando licencia del repositorio
+
+commit caf75c2345f0a92f64d0889c8081fef9ddfdfbc2
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 15:59:50 2022 -0500
+
+    Agregando más contenido al README
+
+commit 59ed09d57c68a8c3fb2a038fdbf44404f215dc62
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 15:47:09 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 63070b6e77fc5415440e9642835e9247a96c9492
+Author: Cristian Andres Alvarez <cristianandres1496@gmail.com>
+Date:   Sat Oct 29 15:43:41 2022 -0500
+
+    Primer commit 🍖
